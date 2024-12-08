@@ -1,0 +1,54 @@
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.csproj.AssemblyReference.cache
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.AssemblyInfoInputs.cache
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.AssemblyInfo.cs
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.csproj.CoreCompileInputs.cache
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.MvcApplicationPartsAssemblyInfo.cs
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.MvcApplicationPartsAssemblyInfo.cache
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.RazorAssemblyInfo.cache
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.RazorAssemblyInfo.cs
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/appsettings.Development.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/appsettings.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Assignment-part 1.staticwebassets.runtime.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Assignment-part 1
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Assignment-part 1.deps.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Assignment-part 1.runtimeconfig.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Assignment-part 1.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Assignment-part 1.pdb
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/MySql.Data.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/ZstdSharp.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/staticwebassets/msbuild.Assignment-part 1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/staticwebassets/msbuild.build.Assignment-part 1.props
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Assignment-part 1.props
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Assignment-part 1.props
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/scopedcss/bundle/Assignment-part 1.styles.css
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/scopedcss/projectbundle/Assignment-part 1.bundle.scp.css
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignme.38088ED9.Up2Date
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/refint/Assignment-part 1.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.pdb
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.genruntimeconfig.cache
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/ref/Assignment-part 1.dll

@@ -1,0 +1,11 @@
+@model Assignment_part_1.Models.Teacher
+
+<h1>Teacher Details</h1>
+<div>
+    <h2>@Model.TeacherFName @Model.TeacherLName</h2>
+    <p><strong>Hire Date:</strong> @Model.HireDate.ToShortDateString()</p>
+    <p><strong>Salary:</strong> @Model.Salary</p>
+    <p><strong>Employee Number:</strong> @Model.EmployeeNumber</p>
+    <p><strong>Courses:</strong> @string.Join(", ", Model.CourseNames)</p>
+</div>
+<a href="/Teacher/List">Back to List</a>

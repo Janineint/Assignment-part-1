@@ -1,0 +1,28 @@
+@model Assignment_part_1.Models.Teacher
+
+<h1>Add New Teacher</h1>
+
+<form asp-action="Add" method="post" asp-controller="TeacherPage">
+    <div>
+        <label for="TeacherFName">First Name:</label>
+        <input type="text" id="TeacherFName" name="TeacherFName" required />
+    </div>
+    <div>
+        <label for="TeacherLName">Last Name:</label>
+        <input type="text" id="TeacherLName" name="TeacherLName" required />
+    </div>
+    <div>
+        <label for="HireDate">Hire Date:</label>
+        <input type="date" id="HireDate" name="HireDate" required />
+    </div>
+    <div>
+        <label for="Salary">Salary:</label>
+        <input type="text" id="Salary" name="Salary" required />
+    </div>
+    <div>
+        <label for="EmployeeNumber">Employee Number:</label>
+        <input type="text" id="EmployeeNumber" name="EmployeeNumber" required />
+    </div>
+    <button type="submit">Add Teacher</button>
+</form>
+<a href="/Teacher/List">Back to List</a>

@@ -1,0 +1,29 @@
+@model Assignment_part_1.Models.Teacher
+
+<h1>Edit Teacher</h1>
+
+<form asp-action="Update" method="post" asp-controller="TeacherPage">
+    <input type="hidden" id="TeacherId" name="TeacherId" value="@Model.TeacherId" />
+    <div>
+        <label for="TeacherFName">First Name:</label>
+        <input type="text" id="TeacherFName" name="TeacherFName" value="@Model.TeacherFName" required />
+    </div>
+    <div>
+        <label for="TeacherLName">Last Name:</label>
+        <input type="text" id="TeacherLName" name="TeacherLName" value="@Model.TeacherLName" required />
+    </div>
+    <div>
+        <label for="HireDate">Hire Date:</label>
+        <input type="date" id="HireDate" name="HireDate" value="@Model.HireDate.ToString("yyyy-MM-dd")" required />
+    </div>
+    <div>
+        <label for="Salary">Salary:</label>
+        <input type="text" id="Salary" name="Salary" value="@Model.Salary" required />
+    </div>
+    <div>
+        <label for="EmployeeNumber">Employee Number:</label>
+        <input type="text" id="EmployeeNumber" name="EmployeeNumber" value="@Model.EmployeeNumber" required />
+    </div>
+    <button type="submit">Update Teacher</button>
+</form>
+<a href="/TeacherPage/List">Back to List</a>

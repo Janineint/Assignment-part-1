@@ -1,0 +1,18 @@
+@model Assignment_part_1.Models.Teacher
+
+<h1>Confirm Delete</h1>
+
+<p>Are you sure you want to delete the following teacher?</p>
+
+<div>
+    <p><strong>Name:</strong> @Model.TeacherFName @Model.TeacherLName</p>
+    <p><strong>Hire Date:</strong> @Model.HireDate.ToShortDateString()</p>
+    <p><strong>Salary:</strong> @Model.Salary</p>
+    <p><strong>Employee Number:</strong> @Model.EmployeeNumber</p>
+</div>
+
+<form asp-action="Delete" method="post" asp-controller="TeacherPage">
+    <input type="hidden" name="TeacherId" value="@Model.TeacherId" />
+    <button type="submit">Confirm Delete</button>
+    <a href="/Teacher/List">Cancel</a>
+</form>
