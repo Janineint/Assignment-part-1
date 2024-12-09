@@ -83,8 +83,7 @@ namespace Assignment_part_1.Controllers
                 connection.Open();
                 var command = connection.CreateCommand();
                 command.CommandText =
-                    "SELECT teachers.*, courses.CourseName FROM teachers " +
-                    "JOIN courses ON teachers.TeacherId = courses.TeacherId " +
+                    "SELECT * FROM teachers " +
                     "WHERE teachers.TeacherId = @id";
                 command.Parameters.AddWithValue("@id", teacherId);
 
@@ -103,7 +102,7 @@ namespace Assignment_part_1.Controllers
                             teacher.CourseNames = new List<string>();
                         }
 
-                        teacher.CourseNames.Add(reader["CourseName"].ToString());
+                        // teacher.CourseNames.Add(reader["CourseName"].ToString());
                     }
                 }
             }
