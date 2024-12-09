@@ -109,7 +109,7 @@ namespace Assignment_part_1.Controllers
                 var result = _teacherApiController.UpdateTeacher(teacher.TeacherId, teacher);
                 if (result is OkObjectResult)
                 {
-                    return RedirectToAction("List");
+                    return View("Success");
                 }
                 else
                 {

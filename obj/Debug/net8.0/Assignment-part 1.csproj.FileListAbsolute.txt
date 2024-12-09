@@ -52,3 +52,4 @@
 /Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.pdb
 /Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.genruntimeconfig.cache
 /Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/ref/Assignment-part 1.dll
+/Users/janineintrakul/Desktop/School/5125/Assignment-part 1/obj/Debug/net8.0/Assignment-part 1.sourcelink.json
